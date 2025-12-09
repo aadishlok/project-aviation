@@ -84,10 +84,10 @@ Output format:
 Response Samples:
 
 First Request:
-<img width="1493" height="942" alt="Screenshot 2025-12-09 at 11 20 41 AM" src="https://github.com/user-attachments/assets/ebdf1322-c05a-4c2c-84fd-67988e8ad187" />
+<img width="1478" height="913" alt="Screenshot 2025-12-09 at 11 20 20 AM" src="https://github.com/user-attachments/assets/67fd0dd3-3761-4a13-acb6-8ad7acdead75" />
 
 Second Request:
 <img width="1483" height="948" alt="Screenshot 2025-12-09 at 11 20 33 AM" src="https://github.com/user-attachments/assets/78eba162-5f56-4c03-a3ca-323e96b331aa" />
 
 Third Request:
-<img width="1478" height="913" alt="Screenshot 2025-12-09 at 11 20 20 AM" src="https://github.com/user-attachments/assets/67fd0dd3-3761-4a13-acb6-8ad7acdead75" />
+<img width="1493" height="942" alt="Screenshot 2025-12-09 at 11 20 41 AM" src="https://github.com/user-attachments/assets/ebdf1322-c05a-4c2c-84fd-67988e8ad187" />
